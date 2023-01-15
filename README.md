@@ -12,7 +12,7 @@
     <img src=".github/preview.png" alt="Interface inicial do jogo Resgate">
 </p>
 
-Acesse o projeto [aqui]()
+Acesse o projeto [aqui](https://fel1324.github.io/Game-Resgate/)
 
 ---
 
