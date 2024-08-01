@@ -26,7 +26,7 @@ Acesse o projeto [aqui](https://fel1324.github.io/Game-Resgate/)
 
 ## 🕹️ Projeto
 
-O projeto consiste em um game que o jogador controla um helicóptero e seu objetivo é resgatar os aliados e atirar nos helicópteros e caminhões inimigos, fazendo isso você irá somar pontos, e depois que o helicóptero do jogador ser destruído 3 vezes ele perderá e será mostrado o total de pontos que o jogador fez.
+O projeto é um jogo no qual o jogador controla um helicóptero com a missão de resgatar aliados e atacar helicópteros e caminhões inimigos. Ao resgatar aliados e destruir inimigos, o jogador acumula pontos. O jogo termina quando o helicóptero do jogador é destruído três vezes, momento em que o total de pontos conquistados é exibido.
 
 <br>
 
